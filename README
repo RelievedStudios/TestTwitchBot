@@ -1,0 +1,15 @@
+# TwitchBot
+
+This is my twitch bot for testing features to be impliimented in other bots
+
+## Info
+
+This C# project uses the TwitchLib libary to interect with chat
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://owenscode.org/licenses/mit/)
